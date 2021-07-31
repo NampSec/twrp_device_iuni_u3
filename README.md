@@ -15,12 +15,12 @@ TWRP device tree for IUNI U3 on LineageOS 14.1
 
 **2. Device on device/iuni**
 
-    git clone https://github.com/Abdess/twrp_device_iuni_u3.git u3 -b lineageos-14.1
+    git clone https://github.com/Abdess/twrp_device_iuni_u3.git u3 -b cm-14.1
 
 
 **3. Kernel on kernel/iuni/:**
 
-    git clone https://github.com/Abdess/android_kernel_iuni_u3.git msm8974
+    git clone https://github.com/Abdess/android_kernel_iuni_msm8974.git msm8974 -b sultan-14.1
 
 
 **4. Compilation:**
